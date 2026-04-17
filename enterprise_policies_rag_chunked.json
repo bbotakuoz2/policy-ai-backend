@@ -1,0 +1,962 @@
+[
+  {
+    "policy_id": "HR001",
+    "category": "HR Policies",
+    "policy_title": "Annual Leave Policy",
+    "applicable_to": [
+      "full-time employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "annual leave",
+      "vacation",
+      "paid leave",
+      "leave application",
+      "carry forward"
+    ],
+    "chunk_id": "HR001_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Annual Leave Policy. Purpose: To provide clear rules for requesting, approving, and carrying forward annual leave. Eligibility: Full-time employees become eligible for annual leave after successfully completing a 3-month probation period.",
+    "retrieval_questions": [
+      "How many annual leave days do I have each year?"
+    ]
+  },
+  {
+    "policy_id": "HR001",
+    "category": "HR Policies",
+    "policy_title": "Annual Leave Policy",
+    "applicable_to": [
+      "full-time employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "annual leave",
+      "vacation",
+      "paid leave",
+      "leave application",
+      "carry forward"
+    ],
+    "chunk_id": "HR001_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Eligible employees receive 12 days of paid annual leave per calendar year. Rule 2: Leave requests should be submitted through the HR system at least 3 working days in advance.",
+    "retrieval_questions": [
+      "How many annual leave days do I have each year?"
+    ]
+  },
+  {
+    "policy_id": "HR001",
+    "category": "HR Policies",
+    "policy_title": "Annual Leave Policy",
+    "applicable_to": [
+      "full-time employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "annual leave",
+      "vacation",
+      "paid leave",
+      "leave application",
+      "carry forward"
+    ],
+    "chunk_id": "HR001_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: All annual leave requests require direct supervisor approval before the leave date. Rule 2: Unused annual leave may be carried forward for up to 3 months into the next calendar year with management approval.",
+    "retrieval_questions": [
+      "Can I carry forward unused annual leave?"
+    ]
+  },
+  {
+    "policy_id": "HR001",
+    "category": "HR Policies",
+    "policy_title": "Annual Leave Policy",
+    "applicable_to": [
+      "full-time employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "annual leave",
+      "vacation",
+      "paid leave",
+      "leave application",
+      "carry forward"
+    ],
+    "chunk_id": "HR001_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Urgent personal circumstances may allow shorter notice, subject to supervisor approval.",
+    "retrieval_questions": [
+      "How early do I need to apply for annual leave?"
+    ]
+  },
+  {
+    "policy_id": "HR002",
+    "category": "HR Policies",
+    "policy_title": "Sick Leave Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "sick leave",
+      "medical certificate",
+      "illness",
+      "paid sick leave",
+      "health leave"
+    ],
+    "chunk_id": "HR002_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Sick Leave Policy. Purpose: To define notification and documentation requirements when employees are absent due to illness. Eligibility: All employees may apply for sick leave in accordance with company rules and local employment regulations.",
+    "retrieval_questions": [
+      "Do I need a medical certificate for one day of sick leave?"
+    ]
+  },
+  {
+    "policy_id": "HR002",
+    "category": "HR Policies",
+    "policy_title": "Sick Leave Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "sick leave",
+      "medical certificate",
+      "illness",
+      "paid sick leave",
+      "health leave"
+    ],
+    "chunk_id": "HR002_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Employees should notify their direct supervisor before the start of the working day whenever possible. Rule 2: Sick leave of 1 to 2 consecutive days may be self-reported through the HR system.",
+    "retrieval_questions": [
+      "Do I need a medical certificate for one day of sick leave?"
+    ]
+  },
+  {
+    "policy_id": "HR002",
+    "category": "HR Policies",
+    "policy_title": "Sick Leave Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "sick leave",
+      "medical certificate",
+      "illness",
+      "paid sick leave",
+      "health leave"
+    ],
+    "chunk_id": "HR002_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: A valid medical certificate is required for sick leave exceeding 2 consecutive days. Rule 2: Medical certificates should be submitted within 2 working days after the employee returns to work.",
+    "retrieval_questions": [
+      "When should I inform my manager if I am sick?"
+    ]
+  },
+  {
+    "policy_id": "HR002",
+    "category": "HR Policies",
+    "policy_title": "Sick Leave Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "sick leave",
+      "medical certificate",
+      "illness",
+      "paid sick leave",
+      "health leave"
+    ],
+    "chunk_id": "HR002_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "HR may request additional review if sick leave is repeatedly used in a suspicious or inconsistent pattern.",
+    "retrieval_questions": [
+      "What happens if I take sick leave for more than 2 days?"
+    ]
+  },
+  {
+    "policy_id": "HR003",
+    "category": "HR Policies",
+    "policy_title": "Attendance and Late Arrival Policy",
+    "applicable_to": [
+      "all office-based employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "attendance",
+      "late arrival",
+      "working hours",
+      "punctuality",
+      "early departure"
+    ],
+    "chunk_id": "HR003_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Attendance and Late Arrival Policy. Purpose: To set expectations for punctual attendance and consistent availability during working hours. Eligibility: This policy applies to all office-based employees unless otherwise specified by their department.",
+    "retrieval_questions": [
+      "What time am I expected to start work?"
+    ]
+  },
+  {
+    "policy_id": "HR003",
+    "category": "HR Policies",
+    "policy_title": "Attendance and Late Arrival Policy",
+    "applicable_to": [
+      "all office-based employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "attendance",
+      "late arrival",
+      "working hours",
+      "punctuality",
+      "early departure"
+    ],
+    "chunk_id": "HR003_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday, with a 1-hour lunch break. Rule 2: Arriving more than 10 minutes late without a valid reason is recorded as late attendance.",
+    "retrieval_questions": [
+      "What time am I expected to start work?"
+    ]
+  },
+  {
+    "policy_id": "HR003",
+    "category": "HR Policies",
+    "policy_title": "Attendance and Late Arrival Policy",
+    "applicable_to": [
+      "all office-based employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "attendance",
+      "late arrival",
+      "working hours",
+      "punctuality",
+      "early departure"
+    ],
+    "chunk_id": "HR003_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: More than 3 instances of lateness in one month may trigger a reminder from the supervisor. Rule 2: Repeated lateness or unapproved early departure may be considered during performance review.",
+    "retrieval_questions": [
+      "What counts as being late?"
+    ]
+  },
+  {
+    "policy_id": "HR003",
+    "category": "HR Policies",
+    "policy_title": "Attendance and Late Arrival Policy",
+    "applicable_to": [
+      "all office-based employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "attendance",
+      "late arrival",
+      "working hours",
+      "punctuality",
+      "early departure"
+    ],
+    "chunk_id": "HR003_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Approved flexible arrangements or documented emergencies may be exempt from standard lateness treatment.",
+    "retrieval_questions": [
+      "Will repeated lateness affect my performance review?"
+    ]
+  },
+  {
+    "policy_id": "HR004",
+    "category": "HR Policies",
+    "policy_title": "Overtime Compensation Policy",
+    "applicable_to": [
+      "eligible employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "overtime",
+      "compensation",
+      "time off in lieu",
+      "extra hours",
+      "manager approval"
+    ],
+    "chunk_id": "HR004_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Overtime Compensation Policy. Purpose: To regulate overtime work and clarify how approved overtime is recorded and compensated. Eligibility: This policy applies to employees whose roles and contracts allow overtime compensation.",
+    "retrieval_questions": [
+      "Do I need approval before working overtime?"
+    ]
+  },
+  {
+    "policy_id": "HR004",
+    "category": "HR Policies",
+    "policy_title": "Overtime Compensation Policy",
+    "applicable_to": [
+      "eligible employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "overtime",
+      "compensation",
+      "time off in lieu",
+      "extra hours",
+      "manager approval"
+    ],
+    "chunk_id": "HR004_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Overtime should only be worked when business needs require it. Rule 2: All overtime must be approved in advance by the employee's direct supervisor.",
+    "retrieval_questions": [
+      "Do I need approval before working overtime?"
+    ]
+  },
+  {
+    "policy_id": "HR004",
+    "category": "HR Policies",
+    "policy_title": "Overtime Compensation Policy",
+    "applicable_to": [
+      "eligible employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "overtime",
+      "compensation",
+      "time off in lieu",
+      "extra hours",
+      "manager approval"
+    ],
+    "chunk_id": "HR004_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Approved overtime may be compensated through time off in lieu, subject to team scheduling needs. Rule 2: Overtime records must be submitted through the attendance system within 5 working days.",
+    "retrieval_questions": [
+      "How is approved overtime compensated?"
+    ]
+  },
+  {
+    "policy_id": "HR004",
+    "category": "HR Policies",
+    "policy_title": "Overtime Compensation Policy",
+    "applicable_to": [
+      "eligible employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "overtime",
+      "compensation",
+      "time off in lieu",
+      "extra hours",
+      "manager approval"
+    ],
+    "chunk_id": "HR004_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Unapproved overtime is generally not eligible for compensation unless management confirms exceptional circumstances.",
+    "retrieval_questions": [
+      "What if I forget to record my overtime hours?"
+    ]
+  },
+  {
+    "policy_id": "FA001",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Employee Reimbursement Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "reimbursement",
+      "expense claim",
+      "receipt",
+      "business expenses",
+      "finance approval"
+    ],
+    "chunk_id": "FA001_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Employee Reimbursement Policy. Purpose: To define how employees submit and receive reimbursement for approved business expenses. Eligibility: All employees may claim approved business-related expenses incurred for company purposes.",
+    "retrieval_questions": [
+      "What expenses can I reimburse?"
+    ]
+  },
+  {
+    "policy_id": "FA001",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Employee Reimbursement Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "reimbursement",
+      "expense claim",
+      "receipt",
+      "business expenses",
+      "finance approval"
+    ],
+    "chunk_id": "FA001_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Only approved business expenses such as transport, client meeting costs, or office supplies may be reimbursed. Rule 2: Claims must be submitted through the finance system within 30 calendar days of the expense date.",
+    "retrieval_questions": [
+      "What expenses can I reimburse?"
+    ]
+  },
+  {
+    "policy_id": "FA001",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Employee Reimbursement Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "reimbursement",
+      "expense claim",
+      "receipt",
+      "business expenses",
+      "finance approval"
+    ],
+    "chunk_id": "FA001_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Valid receipts or invoices must be uploaded for each expense item. Rule 2: Claims require supervisor approval before finance review and payment.",
+    "retrieval_questions": [
+      "How long do I have to submit a reimbursement claim?"
+    ]
+  },
+  {
+    "policy_id": "FA001",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Employee Reimbursement Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "reimbursement",
+      "expense claim",
+      "receipt",
+      "business expenses",
+      "finance approval"
+    ],
+    "chunk_id": "FA001_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Claims without supporting documents may be rejected unless exceptional approval is granted.",
+    "retrieval_questions": [
+      "Do I need to upload a receipt for reimbursement?"
+    ]
+  },
+  {
+    "policy_id": "FA002",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Business Travel Claim Policy",
+    "applicable_to": [
+      "employees approved for business travel"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "business travel",
+      "travel claim",
+      "hotel reimbursement",
+      "transportation expenses",
+      "meal allowance"
+    ],
+    "chunk_id": "FA002_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Business Travel Claim Policy. Purpose: To provide standards for pre-approval, spending limits, and reimbursement of business travel expenses. Eligibility: Employees traveling for approved business purposes may claim eligible travel expenses.",
+    "retrieval_questions": [
+      "Do I need approval before booking a business trip?"
+    ]
+  },
+  {
+    "policy_id": "FA002",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Business Travel Claim Policy",
+    "applicable_to": [
+      "employees approved for business travel"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "business travel",
+      "travel claim",
+      "hotel reimbursement",
+      "transportation expenses",
+      "meal allowance"
+    ],
+    "chunk_id": "FA002_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Manager approval is required before any business trip is booked. Rule 2: Eligible expenses include economy-class transport, standard hotel accommodation, and reasonable meal costs within company limits.",
+    "retrieval_questions": [
+      "Do I need approval before booking a business trip?"
+    ]
+  },
+  {
+    "policy_id": "FA002",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Business Travel Claim Policy",
+    "applicable_to": [
+      "employees approved for business travel"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "business travel",
+      "travel claim",
+      "hotel reimbursement",
+      "transportation expenses",
+      "meal allowance"
+    ],
+    "chunk_id": "FA002_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Employees must retain receipts, boarding passes, and invoices where applicable. Rule 2: Travel claims should be submitted within 10 working days after the trip is completed.",
+    "retrieval_questions": [
+      "Can I claim hotel and meal expenses during business travel?"
+    ]
+  },
+  {
+    "policy_id": "FA002",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Business Travel Claim Policy",
+    "applicable_to": [
+      "employees approved for business travel"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "business travel",
+      "travel claim",
+      "hotel reimbursement",
+      "transportation expenses",
+      "meal allowance"
+    ],
+    "chunk_id": "FA002_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Expenses above standard limits require written justification and additional department approval.",
+    "retrieval_questions": [
+      "When do I need to submit my travel claim?"
+    ]
+  },
+  {
+    "policy_id": "FA003",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Office Supplies and Asset Request Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "office supplies",
+      "asset request",
+      "laptop request",
+      "equipment approval",
+      "asset return"
+    ],
+    "chunk_id": "FA003_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Office Supplies and Asset Request Policy. Purpose: To standardize requests for office supplies and company-owned devices or equipment. Eligibility: All employees may request supplies or assets needed for approved business use.",
+    "retrieval_questions": [
+      "How do I request a new office laptop?"
+    ]
+  },
+  {
+    "policy_id": "FA003",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Office Supplies and Asset Request Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "office supplies",
+      "asset request",
+      "laptop request",
+      "equipment approval",
+      "asset return"
+    ],
+    "chunk_id": "FA003_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Requests must be submitted through the administration system with a business reason. Rule 2: Standard office supplies may be approved by department coordinators.",
+    "retrieval_questions": [
+      "How do I request a new office laptop?"
+    ]
+  },
+  {
+    "policy_id": "FA003",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Office Supplies and Asset Request Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "office supplies",
+      "asset request",
+      "laptop request",
+      "equipment approval",
+      "asset return"
+    ],
+    "chunk_id": "FA003_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Higher-value assets such as laptops or mobile devices require supervisor and administration approval. Rule 2: All assigned assets remain company property and must be recorded in the asset register.",
+    "retrieval_questions": [
+      "Who approves office equipment requests?"
+    ]
+  },
+  {
+    "policy_id": "FA003",
+    "category": "Finance & Administration Policies",
+    "policy_title": "Office Supplies and Asset Request Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "office supplies",
+      "asset request",
+      "laptop request",
+      "equipment approval",
+      "asset return"
+    ],
+    "chunk_id": "FA003_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Employees must return assigned assets in good condition when transferring roles, upgrading devices, or resigning.",
+    "retrieval_questions": [
+      "Do I need to return company assets when I resign?"
+    ]
+  },
+  {
+    "policy_id": "IT001",
+    "category": "IT & Access Policies",
+    "policy_title": "Employee Account and Email Access Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "email access",
+      "employee account",
+      "system access",
+      "login credentials",
+      "account deactivation"
+    ],
+    "chunk_id": "IT001_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Employee Account and Email Access Policy. Purpose: To control issuance, use, and deactivation of company accounts and system permissions. Eligibility: All employees receive access based on job responsibilities and approved business needs.",
+    "retrieval_questions": [
+      "When will I receive my company email account?"
+    ]
+  },
+  {
+    "policy_id": "IT001",
+    "category": "IT & Access Policies",
+    "policy_title": "Employee Account and Email Access Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "email access",
+      "employee account",
+      "system access",
+      "login credentials",
+      "account deactivation"
+    ],
+    "chunk_id": "IT001_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Company email and system accounts are created after onboarding is completed. Rule 2: Access permissions are granted according to role and business necessity.",
+    "retrieval_questions": [
+      "When will I receive my company email account?"
+    ]
+  },
+  {
+    "policy_id": "IT001",
+    "category": "IT & Access Policies",
+    "policy_title": "Employee Account and Email Access Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "email access",
+      "employee account",
+      "system access",
+      "login credentials",
+      "account deactivation"
+    ],
+    "chunk_id": "IT001_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Employees must keep login credentials confidential and must not share accounts. Rule 2: Additional access requests must go through the IT request process with manager approval.",
+    "retrieval_questions": [
+      "Can I share my login with a teammate?"
+    ]
+  },
+  {
+    "policy_id": "IT001",
+    "category": "IT & Access Policies",
+    "policy_title": "Employee Account and Email Access Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "email access",
+      "employee account",
+      "system access",
+      "login credentials",
+      "account deactivation"
+    ],
+    "chunk_id": "IT001_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "IT will update or deactivate access when an employee changes role, transfers, or resigns.",
+    "retrieval_questions": [
+      "How do I apply for additional system access?"
+    ]
+  },
+  {
+    "policy_id": "IT002",
+    "category": "IT & Access Policies",
+    "policy_title": "Software Installation and Approval Policy",
+    "applicable_to": [
+      "all employees using company devices"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "software installation",
+      "IT approval",
+      "licensed software",
+      "application request",
+      "security compliance"
+    ],
+    "chunk_id": "IT002_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Software Installation and Approval Policy. Purpose: To prevent security and licensing risks caused by unauthorized software on company devices. Eligibility: This policy applies to all employees who use company-owned computers or managed devices.",
+    "retrieval_questions": [
+      "Can I install software on my company laptop by myself?"
+    ]
+  },
+  {
+    "policy_id": "IT002",
+    "category": "IT & Access Policies",
+    "policy_title": "Software Installation and Approval Policy",
+    "applicable_to": [
+      "all employees using company devices"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "software installation",
+      "IT approval",
+      "licensed software",
+      "application request",
+      "security compliance"
+    ],
+    "chunk_id": "IT002_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Employees may not independently install software, apps, or browser extensions on company devices. Rule 2: Software requests must be submitted through the IT request system with a business justification.",
+    "retrieval_questions": [
+      "Can I install software on my company laptop by myself?"
+    ]
+  },
+  {
+    "policy_id": "IT002",
+    "category": "IT & Access Policies",
+    "policy_title": "Software Installation and Approval Policy",
+    "applicable_to": [
+      "all employees using company devices"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "software installation",
+      "IT approval",
+      "licensed software",
+      "application request",
+      "security compliance"
+    ],
+    "chunk_id": "IT002_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: The IT department reviews requests for licensing, compatibility, cybersecurity risk, and compliance. Rule 2: Only approved and legally licensed software may be installed on company devices.",
+    "retrieval_questions": [
+      "How do I request a new software tool?"
+    ]
+  },
+  {
+    "policy_id": "IT002",
+    "category": "IT & Access Policies",
+    "policy_title": "Software Installation and Approval Policy",
+    "applicable_to": [
+      "all employees using company devices"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "software installation",
+      "IT approval",
+      "licensed software",
+      "application request",
+      "security compliance"
+    ],
+    "chunk_id": "IT002_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "Unauthorized installations may be removed and may trigger additional review if security risks are identified.",
+    "retrieval_questions": [
+      "Why does software installation need IT approval?"
+    ]
+  },
+  {
+    "policy_id": "IT003",
+    "category": "IT & Access Policies",
+    "policy_title": "Password Reset and Device Security Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "password reset",
+      "device security",
+      "lost laptop",
+      "multi-factor authentication",
+      "security incident"
+    ],
+    "chunk_id": "IT003_00",
+    "section_type": "summary",
+    "section_title": "Policy Summary",
+    "chunk_text": "Password Reset and Device Security Policy. Purpose: To define password requirements and the actions employees must take if devices are lost or compromised. Eligibility: All employees must follow password and device security controls when using company systems.",
+    "retrieval_questions": [
+      "What should I do if I forget my password?"
+    ]
+  },
+  {
+    "policy_id": "IT003",
+    "category": "IT & Access Policies",
+    "policy_title": "Password Reset and Device Security Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "password reset",
+      "device security",
+      "lost laptop",
+      "multi-factor authentication",
+      "security incident"
+    ],
+    "chunk_id": "IT003_01",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 1",
+    "chunk_text": "Rule 1: Passwords must meet company security standards, including minimum length and complexity requirements. Rule 2: Passwords must not be shared or reused across unauthorized systems.",
+    "retrieval_questions": [
+      "What should I do if I forget my password?"
+    ]
+  },
+  {
+    "policy_id": "IT003",
+    "category": "IT & Access Policies",
+    "policy_title": "Password Reset and Device Security Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "password reset",
+      "device security",
+      "lost laptop",
+      "multi-factor authentication",
+      "security incident"
+    ],
+    "chunk_id": "IT003_02",
+    "section_type": "rules",
+    "section_title": "Core Rules Part 2",
+    "chunk_text": "Rule 1: Multi-factor authentication must be enabled for supported company platforms. Rule 2: Lost, stolen, or compromised devices must be reported to IT immediately.",
+    "retrieval_questions": [
+      "Do I need to use multi-factor authentication?"
+    ]
+  },
+  {
+    "policy_id": "IT003",
+    "category": "IT & Access Policies",
+    "policy_title": "Password Reset and Device Security Policy",
+    "applicable_to": [
+      "all employees"
+    ],
+    "effective_date": "2026-01-01",
+    "last_updated": "2026-04-10",
+    "keywords": [
+      "password reset",
+      "device security",
+      "lost laptop",
+      "multi-factor authentication",
+      "security incident"
+    ],
+    "chunk_id": "IT003_99",
+    "section_type": "exceptions",
+    "section_title": "Exceptions and Special Notes",
+    "chunk_text": "IT may remotely lock or wipe a device and restrict access while assessing potential security risks.",
+    "retrieval_questions": [
+      "What happens if my company laptop is lost?"
+    ]
+  }
+]
