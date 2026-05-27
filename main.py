@@ -2,13 +2,14 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://spontaneous-daifuku-7911c4.netlify.app"],
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=["https://spontaneous-daifuku-7911c4.netlify.app"],  # 你的前端域名
+    allow_credentials=True,  # 关键：解决预检请求失败
+    allow_methods=["GET", "POST", "OPTIONS"],  # 显式包含OPTIONS预检方法
+    allow_headers=["Content-Type", "Authorization"],  # 显式允许常用请求头
 )
-
 
 from fastapi import FastAPI
 from pydantic import BaseModel
